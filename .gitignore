@@ -1,0 +1,6 @@
+.vagrant
+*.db
+*.pyc
+.ipynb_checkpoints/
+*.csv
+access_log
